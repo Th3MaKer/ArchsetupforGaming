@@ -1,7 +1,7 @@
 # ArchsetupforGaming
 arch users that wants game on they own pc 
 ### how do we do it?
-this is how first install these pkg (vulkan drivers)<br/>
+This is how. First install these pkg (vulkan drivers)<br/>
 intel
 ```
 sudo pacman -S --needed lib32-mesa vulkan-intel lib32-vulkan-intel vulkan-icd-loader lib32-vulkan-icd-loader

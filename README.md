@@ -1,5 +1,6 @@
 # ArchsetupforGaming
-arch users that wants game on they own pc 
+arch users that wants game on they own pc<br/>
+[lutris](https://lutris.net/about)
 ### how do we do it?
 This is how. First install these pkg (vulkan drivers)<br/>
 intel
@@ -13,4 +14,9 @@ sudo pacman -S --needed lib32-mesa vulkan-radeon lib32-vulkan-radeon vulkan-icd-
 nvidia
 ```
 sudo pacman -S --needed nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader
+```
+### Apps
+we need apps that has wine use for games and steam etc, (install these)<br/>
+```
+sudo pacman -S lutris wine-stating gamemode 
 ```

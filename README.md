@@ -1,9 +1,9 @@
 # ArchsetupforGaming
 arch users that wants game on they own pc<br/>
 Apps use in this<br/>
-[lutris](https://lutris.net/about)<br/>
-[Wine](https://www.winehq.org/about)<br/>
-[Gamemode](https://github.com/FeralInteractive/gamemode)<br/>
+[lutris](https://lutris.net/about) <br/>
+[Wine](https://www.winehq.org/about) <br/>
+[Gamemode](https://github.com/FeralInteractive/gamemode) <br/>
 ### how do we do it?
 This is how. First install these pkg (vulkan drivers)<br/>
 intel

@@ -1,2 +1,3 @@
 # ArchsetupforGaming
-arch users that wants gaming 
+arch users that wants gaming on they own pc 
+## how do we do it?

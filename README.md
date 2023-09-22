@@ -5,7 +5,7 @@ Apps use in this<br/>
 [Wine](https://www.winehq.org/about) <br/>
 [Gamemode](https://github.com/FeralInteractive/gamemode) <br/>
 ### how do we do it?
-This is how. First install these pkg (vulkan drivers)<br/>
+This is how. First install these packages (vulkan drivers)<br/>
 intel
 ```
 sudo pacman -S --needed lib32-mesa vulkan-intel lib32-vulkan-intel vulkan-icd-loader lib32-vulkan-icd-loader

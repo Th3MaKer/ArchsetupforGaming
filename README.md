@@ -1,5 +1,5 @@
 # ArchsetupforGaming
-arch users that wants gaming on they own pc 
+arch users that wants game on they own pc 
 ### how do we do it?
 this is how first install these pkg (vulkan drivers)<br/>
 intel

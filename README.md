@@ -19,7 +19,14 @@ nvidia
 sudo pacman -S --needed nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader
 ```
 ### Apps
-we need apps that has wine use for games and steam etc, (install these)<br/>
+We need the apps that use for games and steam etc, (install these)<br/>
 ```
-sudo pacman -S lutris wine-stating gamemode 
+sudo pacman -S lutris wine-stating gamemode
 ```
+### Final Step 
+U have complete everything now all you need is games, How u may wonder simple gog steam etc that all basicly
+### discord 
+[lutris](https://discord.gg/7XzwhDcqrq) <br/>
+[My discord server](https://discord.gg/Ck6JmH3D2Y)
+### Screenshots
+

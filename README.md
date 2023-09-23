@@ -18,7 +18,7 @@ nvidia
 ```
 sudo pacman -S --needed nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-settings vulkan-icd-loader lib32-vulkan-icd-loader
 ```
-### Apps
+## Apps
 We need the apps that use for games and steam etc, (install these)<br/>
 ```
 sudo pacman -S lutris wine-stating gamemode

@@ -30,7 +30,7 @@ sudo pacman -S --needed nvidia-dkms nvidia-utils lib32-nvidia-utils nvidia-setti
 ## Apps
 We need the apps that use for games and steam etc, (install these)<br/>
 ```
-sudo pacman -S lutris wine-stating gamemode
+sudo pacman -S lutris wine-staging gamemode
 ```
 ### Final Step 
 U have complete everything now all you need is games, How u may wonder simple gog steam etc that all basicly
